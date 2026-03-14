@@ -1,1 +1,1 @@
-# SampleApplicaton
+# SampleApplication
